@@ -7,3 +7,4 @@ def name
   @doggy
 end
 end
+end
