@@ -1,3 +1,10 @@
 # Your code goes here!
 class Dog 
-end 
+  name=(dog_name)
+  @doggy = dog_name
+end
+
+def name
+  @doggy
+end
+end
