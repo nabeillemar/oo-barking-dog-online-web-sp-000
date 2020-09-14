@@ -6,5 +6,3 @@ end
 def name
   @doggy
 end
-end
-end
